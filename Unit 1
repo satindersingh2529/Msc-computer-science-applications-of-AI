@@ -8,21 +8,30 @@ Q:2:-Describe the significance of the Turing Test and why it is still relevant t
 Ans: The test was proposed by Alan Turng in 1950, to check that whether a machine can mimic human intelligence so accurately that a person can not distinguish that whether it is a machine or a person. Even today it is significant because it can be used to measure conversational AI's capabilities.
 
 Q:3:-Explain the difference between weak AI and strong AI, and provide examples of each. 
-
 Ans: Weak AI: it is also known as narrow ai and it can be excellent only at one specific task at a time. for example chatgpt and face id used in iphones where on the flip side strong ai can perform any intellectual task same as human beings can do but untill now it is a science friction concept.
 
 Q:4:-What is neuro-symbolic AI? Why is it considered a hybrid approach? 
 Ans: neuro- symbolic ai can be define as the AI that can efficiently combine two system of, "Intelligence as a large bunch of task-specific skills (static)" and "Intelligence as general learning ability (dynamic)",
 whhich states the AI can do work like human thinking and can apply it to a new situation can it is consider the hybrid approch because it combines two different principles.
-Q:5:-
-Ans:
-Q:6:-
-Ans:
-Q:7:-
-Ans:
-Q:8:-
-Ans:
-Q:9:-
-Ans:
-Q:10:-
-Ans:
+
+Q:5:-List three historical milestones in AI development and their impact.
+Ans:Dartmouth Conference 1956:- they coined the term AI 'Artificial Intelligence' and started early reseach directions.
+     Early expert systems 1980s – Showed AI could assist decision-making in fields like medicine and business.
+     AI explode in the 2020s - In 2020s Ai explodes due to the presence of more data, more power and better algorithms.
+
+Q:6-Describe the role of System 1 and System 2 thinking in human intelligence. How might these systems influence AI design? 
+Ans: Daniel kahneman 2019 described the rocess if thinking in human intelligence is made up of  two systems
+     system 1 can be described as intutive and low level, means its fast, automatc. emotional,subconscious like-driving on a empty road,recognising a person.
+     system 2 os more logical and highlevel. so, it is slow,deliberate, conscious and calculating. fro example solving a maths complex problem.
+
+Q:7:-What are the strengths and limitations of AI in predictive policing? 
+Ans: AI can be used in police to analyzine a large amount of data in a lesser time to detect crime patterns or to make police system more efficiently but if the traning data or the data avaliable for AI contains bias then it will make decisions on the bases of the baised data with full confidence. which will eventually leads to unfair decsion making or targeting a certain community.
+
+Q:8:-Define skill-acquisition efficiency in the context of AI.
+Ans: Skill-acquisition efficienct refer to how easily, quickly and efficiently an artificial intelligence system can learns to perform new taskes with the data avaliable and how it can use it to do another task.The higher efficiency means how easily a new system can adapt to new situation.
+
+Q:9:-Identify two current applications of generative AI and discuss their societal impacts. 
+Ans: Gwnerative AI means the AI which is used nowadays to create content.Tools like chat-gpt and DALL-E are used to assist writing and correcting scripts and generate images respectively.there are widly used in the present times to to increase productivity.
+
+Q:10:-What is the relationship between data availability and the development of AI systems?
+Ans: AI systems depend on the data avaliable to them for training and high quality and large dataset make a AI system more powerfull in the terms of efficiency and giving correct answes. while the biased data can leads to wrong decsions and ethical concerns in the applications.
